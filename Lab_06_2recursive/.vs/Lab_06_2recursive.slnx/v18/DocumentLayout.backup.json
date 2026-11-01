@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\st\\AP\\06\\Lab_06_2\\Lab_06_2recursive\\Lab_06_2recursive\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E492DD5-134C-9483-A1EE-C9DABA804943}|..\\UnitTest1\\UnitTest1.vcxproj|C:\\st\\AP\\06\\Lab_06_2\\Lab_06_2recursive\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F912510-D9BA-466E-A43D-46385417AA9B}|Lab_06_2recursive.vcxproj|C:\\st\\AP\\06\\Lab_06_2\\Lab_06_2recursive\\Lab_06_2recursive\\Lab_06_2recursive.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7F912510-D9BA-466E-A43D-46385417AA9B}|Lab_06_2recursive.vcxproj|solutionrelative:Lab_06_2recursive.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "C:\\st\\AP\\06\\Lab_06_2\\Lab_06_2recursive\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "..\\UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "C:\\st\\AP\\06\\Lab_06_2\\Lab_06_2recursive\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "..\\UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-01T21:24:19.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lab_06_2recursive.cpp",
+              "DocumentMoniker": "C:\\st\\AP\\06\\Lab_06_2\\Lab_06_2recursive\\Lab_06_2recursive\\Lab_06_2recursive.cpp",
+              "RelativeDocumentMoniker": "Lab_06_2recursive.cpp",
+              "ToolTip": "C:\\st\\AP\\06\\Lab_06_2\\Lab_06_2recursive\\Lab_06_2recursive\\Lab_06_2recursive.cpp",
+              "RelativeToolTip": "Lab_06_2recursive.cpp",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAFwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-01T21:21:13.881Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Lab_06_2.7f912510\\x64\\Debug\\Lab_06_2recursive.obj",
+            "outputs": [
+                "Lab_06_2.7f912510\\x64\\Debug\\Lab_06_2recursive.cpp.obj.dt.module.json",
+                "Lab_06_2.7f912510\\x64\\Debug\\Lab_06_2recursive.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
